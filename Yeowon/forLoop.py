@@ -6,4 +6,6 @@ class Loop():
     def forLoop(self):
         for i in range(self.start, self.end, self.count):
             print(i)
-    
+
+
+# some code..
